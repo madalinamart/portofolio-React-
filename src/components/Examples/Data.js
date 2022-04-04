@@ -3,6 +3,17 @@ import ecommerce from '../../images/ecommerce.JPG';
 import portofolio from '../../images/portofolio.PNG';
 import restaurant from '../../images/restaurant.JPG';
 import shop from '../../images/shop.PNG';
+import osf from '../../images/osf.PNG'
+
+
+export const osfProject = {
+    title: 'E-commerce',
+    description: 'A full e-commerce website using HTML5,CSS3 and JS',
+    githubLink: 'https://github.com/madalinamart/OSF',
+    projectLink : 'https://osf-madalina-martiniuc.netlify.app/',
+    img: osf,
+    alt: 'osf project screenshot'
+}
 
 export const projectOne = {
     title: 'Restaurant',
