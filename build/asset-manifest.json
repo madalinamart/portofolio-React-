@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bac073a.css",
+    "main.js": "/static/js/main.f24b98a4.js",
+    "static/media/osf.PNG": "/static/media/osf.d67acb579665ca270a6b.PNG",
+    "static/media/air.PNG": "/static/media/air.ee211cd0d479e08f15ec.PNG",
+    "static/media/portofolio.PNG": "/static/media/portofolio.d3c67f90ed96e716b60d.PNG",
+    "static/media/actokedavrapng.PNG": "/static/media/actokedavrapng.1931922858ae6a57a136.PNG",
+    "static/media/Resume.pdf": "/static/media/Resume.3cdc99b5f6672979258e.pdf",
+    "static/media/restaurant.JPG": "/static/media/restaurant.d712348a321c0abb0137.JPG",
+    "static/media/shop.PNG": "/static/media/shop.a3cdbba8e31a65cf23e9.PNG",
+    "static/media/me.jpg": "/static/media/me.74ee3858bb2112a23a31.jpg",
+    "static/media/ecommerce.JPG": "/static/media/ecommerce.393a00f4fc388550d446.JPG",
+    "static/media/postgresql.svg": "/static/media/postgresql.5464211e6ef79cfe62fc658c9b00f820.svg",
+    "static/media/mysql.svg": "/static/media/mysql.4e6fc76860c30ade009df8b119c7eaa5.svg",
+    "static/media/react.svg": "/static/media/react.1c1edc1f970a2944f689dcff8329bede.svg",
+    "static/media/php.svg": "/static/media/php.48967cb75efd0b3bf3df7ab52b39cb6e.svg",
+    "static/media/css3.svg": "/static/media/css3.dc06e3f2d1fa79f8e67248eb5c1db40d.svg",
+    "static/media/wordpress-logo-svgrepo-com.svg": "/static/media/wordpress-logo-svgrepo-com.28245fb413702bbcb28f620d0f598729.svg",
+    "static/media/java.svg": "/static/media/java.1a020d6d625b3212eb7484ebc3d7ddbc.svg",
+    "static/media/javascript.svg": "/static/media/javascript.a01e052b9c17e3d56ab8c464f41e33c7.svg",
+    "static/media/html5.svg": "/static/media/html5.d0addc05618b04fad8a920667bd781d7.svg",
+    "index.html": "/index.html",
+    "main.5bac073a.css.map": "/static/css/main.5bac073a.css.map",
+    "main.f24b98a4.js.map": "/static/js/main.f24b98a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bac073a.css",
+    "static/js/main.f24b98a4.js"
+  ]
+}
