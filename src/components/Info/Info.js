@@ -9,7 +9,7 @@ import {
   Icon,
   CvLink,
 } from "./InfoElements";
-import resume from "../../resume/Resume.PDF";
+import resume from "../../resume/Resume.pdf";
 
 const Info = () => {
   return (
