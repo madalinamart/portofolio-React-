@@ -4,7 +4,6 @@ import portofolio from '../../images/portofolio.PNG';
 import restaurant from '../../images/restaurant.JPG';
 import shop from '../../images/shop.PNG';
 import osf from '../../images/osf.PNG'
-<<<<<<< HEAD
 import actoKedavra from '../../images/actokedavrapng.PNG'
 
 export const actoKedavraProject = {
@@ -15,9 +14,6 @@ export const actoKedavraProject = {
     img: actoKedavra,
     alt: 'actoKedavra project screenshot'
 }
-=======
-
->>>>>>> 6879d41c654294979a98b1d9b8309aa953e71b21
 
 export const osfProject = {
     title: 'E-commerce',
