@@ -41,7 +41,7 @@ export const Infos = styled.p`
 
 export const ContactsWrapper = styled.div`
  display: grid;
- grid-template-columns: 1fr 1fr 1fr 1fr;
+ grid-template-columns: 1fr 1fr 1fr;
  grid-gap: 1rem;
  align-items: center;
  justify-content: flex-start;

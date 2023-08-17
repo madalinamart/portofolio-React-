@@ -1,7 +1,7 @@
 import React from 'react';
-import {FiLinkedin, FiGithub, FiInstagram, FiFacebook} from 'react-icons/fi';
+import {FiLinkedin, FiGithub, FiFacebook} from 'react-icons/fi';
 import {InfoContainer, InfoText, InfoTitle, Infos, ContactsWrapper, Icon, CvLink} from './InfoElements';
-import Resume from '../../resume/Resume.pdf';
+import Resume from '../../resume/resume.PDF';
 
 
 const Info = () => {
@@ -31,10 +31,10 @@ const Info = () => {
     </Icon>
     <Icon href="https://github.com/madalinamart" target="_blank">
     <FiGithub />
-    </Icon>
+    </Icon>{/* 
     <Icon href="https://www.instagram.com/m.madaliina/" target="_blank">
     <FiInstagram />
-    </Icon>
+    </Icon> */}
     <Icon href="https://www.facebook.com/profile.php?id=100011402834068" target="_blank">
     <FiFacebook />
     </Icon>
