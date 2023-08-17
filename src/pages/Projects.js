@@ -6,7 +6,10 @@ import {
   projectFour,
   projectFive,
   osfProject,
+<<<<<<< HEAD
   actoKedavraProject,
+=======
+>>>>>>> 6879d41c654294979a98b1d9b8309aa953e71b21
 } from '../components/Examples/Data';
 import Example from '../components/Examples/Example';
 import styled from 'styled-components';
@@ -52,12 +55,20 @@ const Projects = () => {
       <Title id='projects'>Projects</Title>
       <ProjectsContainer>
         <ProjectsWrapper>
+<<<<<<< HEAD
           <Example {...actoKedavraProject} />
           <Example {...osfProject} />
           <Example {...projectOne} />
           <Example {...projectTwo} />
           <Example {...projectThree} />{/* 
           <Example {...projectFour} /> */}
+=======
+          <Example {...osfProject} />
+          <Example {...projectOne} />
+          <Example {...projectTwo} />
+          <Example {...projectThree} />
+          <Example {...projectFour} />
+>>>>>>> 6879d41c654294979a98b1d9b8309aa953e71b21
           <Example {...projectFive} />
         </ProjectsWrapper>
       </ProjectsContainer>
