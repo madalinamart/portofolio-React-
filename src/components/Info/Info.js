@@ -1,7 +1,7 @@
 import React from 'react';
 import {FiLinkedin, FiGithub, FiFacebook} from 'react-icons/fi';
 import {InfoContainer, InfoText, InfoTitle, Infos, ContactsWrapper, Icon, CvLink} from './InfoElements';
-import Resume from '../../resume/resume.PDF';
+import resume from '../../resume/resume.PDF';
 
 
 const Info = () => {
@@ -42,7 +42,7 @@ const Info = () => {
     <Infos>
         <p>Also, view and download my resume.</p>
     </Infos>
-        <CvLink href={Resume} target="_blank">
+        <CvLink href={resume} target="_blank">
             Resume
         </CvLink>
     </InfoContainer>
